@@ -1,0 +1,5 @@
+We need username and password to access switch but we don't have but we know that switch has two config running config and starup config 
+
+We can copy running config into starup config
+
+Solution Click on Switch and go on config and there is NVRAM click on save it will load the running config into starup config and will give access directly you into enable mode. Here you can type show running config you will get Username net and password game
